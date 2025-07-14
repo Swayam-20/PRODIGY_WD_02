@@ -26,7 +26,7 @@ Stopwatch Preview
 # Installation
 1. Clone the repository:
  
-```git clone [https://github.com/Swayam-20/PRODIGY_WD_02.git](https://github.com/Swayam-20/PRODIGY_WD_02.git)```
+```git clone https://github.com/Swayam-20/PRODIGY_WD_02.git```
 
 2. Navigate to the project directory:
    
